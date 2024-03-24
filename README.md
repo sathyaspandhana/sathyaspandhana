@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sathyaspandhana.
-- Project on retail sales data and analysing the data to derive the trends and patterns, applied ML algorithms and confusion matrix.
+
+  
 - 
 
 <!---
