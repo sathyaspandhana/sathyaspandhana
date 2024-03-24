@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @sathyaspandhana.
-- 👀 I’m interested in Datascience.
-- 🌱 I’m currently learning python, data analysis and visualization, powerBI.
-- 💞️ I’m looking to collaborate on datascience and visualization.
-- 📫 How to reach me
+- Project on retail sales data and analysing the data to derive the trends and patterns, applied ML algorithms and confusion matrix.
 - 
 
 <!---
